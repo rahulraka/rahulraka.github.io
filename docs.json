@@ -1,0 +1,256 @@
+{
+    "InvoiceResponseData": [
+        {
+            "rescode": "S",
+            "errorMessage": "Invoice Document Found",
+            "invoiceData": [
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "221340.00 ",
+                    "weight": "1012.500 ",
+                    "materialCode": "FBR01DU0102P04V4",
+                    "materialDescription": "FORTUNE DUBAR ST RICE 20X1 KG PH BAG",
+                    "poLineItemNo": "000008",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRT56J05",
+                    "quantity": "50.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                },
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "774690.00 ",
+                    "weight": "2025.000 ",
+                    "materialCode": "FBR08HR0121P04",
+                    "materialDescription": "FORTUNE CLASSIC BIRYANI BR - 20X1KG CAR",
+                    "poLineItemNo": "000005",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRR56J04",
+                    "quantity": "100.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                },
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "455390.00 ",
+                    "weight": "2125.000 ",
+                    "materialCode": "FBR02HR0110P04",
+                    "materialDescription": "FORTUNE SUPERB RICE RW FG 20X1KG PCH CAR",
+                    "poLineItemNo": "000007",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRR56J04",
+                    "quantity": "100.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                },
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "193672.50 ",
+                    "weight": "506.250 ",
+                    "materialCode": "FBR08HR0121P07",
+                    "materialDescription": "FORTUNE CLASSIC BIRYANI BR - 4X5KG CAR",
+                    "poLineItemNo": "000006",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRR58J04",
+                    "quantity": "25.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                },
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "85978.50 ",
+                    "weight": "316.800 ",
+                    "materialCode": "FBR01HR0101P07",
+                    "materialDescription": "FORTUNE BIRYSPB RICE ST FG 4X5KG PP CAR",
+                    "poLineItemNo": "000002",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRT58J03",
+                    "quantity": "15.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                },
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "2006165.00 ",
+                    "weight": "7385.000 ",
+                    "materialCode": "FBR01HR0101P04",
+                    "materialDescription": "FORTUNE BIRYSPB RICE ST FG 20X1KG PH",
+                    "poLineItemNo": "000001",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRT56J05",
+                    "quantity": "350.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                },
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "200616.50 ",
+                    "weight": "739.200 ",
+                    "materialCode": "FBR01HR0101P07",
+                    "materialDescription": "FORTUNE BIRYSPB RICE ST FG 4X5KG PP CAR",
+                    "poLineItemNo": "000003",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRT58J04",
+                    "quantity": "35.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                },
+                {
+                    "orderNo": "0080432684",
+                    "invoiceNo": 9002496311,
+                    "routeCode": "MU1463",
+                    "incoTerms": "FOR",
+                    "invoiceDate": 20210511,
+                    "shipToParty": "PMH05",
+                    "invoiceAmount": "845292.50 ",
+                    "weight": "6646.250 ",
+                    "materialCode": "FBR01HR0608P04",
+                    "materialDescription": "JUBILEE REGULAR LG RICE 20X1KG BAG",
+                    "poLineItemNo": "000004",
+                    "supplyPlant": "114F",
+                    "storageLoc": 1000,
+                    "batch": "AQRT56J04",
+                    "quantity": "325.000 ",
+                    "IRNNo": "6e76e3205b1686a930e009b2e8009075f77a336c0a65f99aed28fb4f60d4176b",
+                    "IRNDategeneration": 20210511,
+                    "Is_einvoice_valid": "TRUE",
+                    "EWayBillNo": 611295061995,
+                    "EWayBillDate": 20210511,
+                    "EWayBillExpiry": 20210518,
+                    "Is_ewaybill_valid": "TRUE"
+                }
+            ]
+        },
+        ""
+    ]
+}
+
+
+Thanks,
+Vignesh D
+
+
+
+
+Vignesh Devan
+Feb 1, 2023, 5:16 PM (9 days ago)
+to me, Paramesh, Dilip, Farshan
+
+Below the updated response structure
+
+{
+    "status": 200,
+    "message": "Invoice fetch",
+    "system_time": 1675251660807,
+    "data": {
+        "invoices": [
+            {
+                "invoiceData": [
+                    {
+                        "orderNo": "0080432319",
+                        "invoiceNo": "9002485438",
+                        "routeCode": "MU0697",
+                        "invoiceAmount": "5282521.20 ",
+                        "weight": "22.110 ",
+                        "materialCode": "R31801004",
+                        "materialDescription": "CASTOR OIL FIRST SPECIAL GRADE",
+                        "poLineItemNo": "000001",
+                        "storageLoc": "RR11",
+                        "batch": "K6",
+                        "IRNNo": "",
+                        "quantity": "22.110 ",
+                        "Is_einvoice_valid": "FALSE",
+                        "Is_ewaybill_valid": "FALSE",
+                        "EWayBillNo": "",
+                        "incoTerms": "FOR",
+                        "shipToParty": "P2008",
+                        "supplyPlant": "114R",
+                        "invoiceDate": 1620325800000,
+                        "EWayBillExpiry": 1675251660807,
+                        "EWayBillDate": 1675251660807,
+                        "IRNDategeneration": 1675251660807
+                    }
+                ],
+                "errorMessage": "Invoice Document Found",
+                "rescode": "S"
+            }
+        ]
+    }
+}
