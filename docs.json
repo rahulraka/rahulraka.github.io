@@ -1,5 +1,9 @@
 {
-    "InvoiceResponseData": [
+    "status": 200,
+    "message": "Invoice fetch",
+    "system_time": 1675251660807,
+    "data": {
+         "invoices": [
         {
             "rescode": "S",
             "errorMessage": "Invoice Document Found",
@@ -197,60 +201,7 @@
                     "Is_ewaybill_valid": "TRUE"
                 }
             ]
-        },
-        ""
+        }
     ]
 }
-
-
-Thanks,
-Vignesh D
-
-
-
-
-Vignesh Devan
-Feb 1, 2023, 5:16 PM (9 days ago)
-to me, Paramesh, Dilip, Farshan
-
-Below the updated response structure
-
-{
-    "status": 200,
-    "message": "Invoice fetch",
-    "system_time": 1675251660807,
-    "data": {
-        "invoices": [
-            {
-                "invoiceData": [
-                    {
-                        "orderNo": "0080432319",
-                        "invoiceNo": "9002485438",
-                        "routeCode": "MU0697",
-                        "invoiceAmount": "5282521.20 ",
-                        "weight": "22.110 ",
-                        "materialCode": "R31801004",
-                        "materialDescription": "CASTOR OIL FIRST SPECIAL GRADE",
-                        "poLineItemNo": "000001",
-                        "storageLoc": "RR11",
-                        "batch": "K6",
-                        "IRNNo": "",
-                        "quantity": "22.110 ",
-                        "Is_einvoice_valid": "FALSE",
-                        "Is_ewaybill_valid": "FALSE",
-                        "EWayBillNo": "",
-                        "incoTerms": "FOR",
-                        "shipToParty": "P2008",
-                        "supplyPlant": "114R",
-                        "invoiceDate": 1620325800000,
-                        "EWayBillExpiry": 1675251660807,
-                        "EWayBillDate": 1675251660807,
-                        "IRNDategeneration": 1675251660807
-                    }
-                ],
-                "errorMessage": "Invoice Document Found",
-                "rescode": "S"
-            }
-        ]
-    }
 }
